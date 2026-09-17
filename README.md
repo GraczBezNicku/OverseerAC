@@ -8,7 +8,7 @@
   <span> - </span>
   <a href="http://api.overseerac.eu/terms.pdf">Terms of Service</a>
   <span> - </span>
-  <a href="http://discord.overseerac.eu">Discord</a>
+  <a href="http://api.overseerac.eu/discord">Discord</a>
   <p></p>
 </div> 
 
@@ -22,10 +22,10 @@ Currently, these are the tools available to server hosts:
 
 ## How can I use these tools?
 Some of the provided tools work out of the box with no configuration. However, most of them will require an API key to be able to access endpoints at `https://api.overseerac.eu`.
-If you are a server host, you can request an API key on our [Discord](http://discord.overseerac.eu) server. Other than that, the server is used for general updates regarding the system.
+If you are a server host, you can request an API key on our [Discord](http://api.overseerac.eu/discord) server. Other than that, the server is used for general updates regarding the system.
 
 ## I was unfairly targeted!
-If you, as an end user, were targeted by OverseerAC tools, you can request an exemption from the system on our [Discord](http://discord.overseerac.eu) server.
+If you, as an end user, were targeted by OverseerAC tools, you can request an exemption from the system on our [Discord](http://api.overseerac.eu/discord) server.
 More detailed instructions can be found on the server, however keep in mind that requests from new and/or suspicious accounts will be rejected.
 
 ## AI Usage disclosure
