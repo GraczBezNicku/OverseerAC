@@ -27,3 +27,6 @@ If you are a server host, you can request an API key on our [Discord](http://dis
 ## I was unfairly targeted!
 If you, as an end user, were targeted by OverseerAC tools, you can request an exemption from the system on our [Discord](http://discord.overseerac.eu) server.
 More detailed instructions can be found on the server, however keep in mind that requests from new and/or suspicious accounts will be rejected.
+
+## AI Usage disclosure
+The core tools (internal and external) were made by humans, with no AI generated code. The Terms of Service and the Privacy Policy were made with AI assistance, reviewed and approved by a human.
